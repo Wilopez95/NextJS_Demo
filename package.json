@@ -1,0 +1,27 @@
+{
+  "name": "NextJS_Demo",
+  "version": "1.0.0",
+  "description": "Demo practico de NextJS con React",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start" : "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wilopez95/NextJS_Demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wilopez95/NextJS_Demo/issues"
+  },
+  "homepage": "https://github.com/Wilopez95/NextJS_Demo#readme",
+  "dependencies": {
+    "next": "^9.5.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
